@@ -3,7 +3,7 @@
 - Living in Paris 🇫🇷🍷🧀 and Graduated from [ISEP](https://www.isep.fr/) 🎓
 - ex- organizer and Co-founder of [DataXDay](https://dataxday.fr)
 - [Confluent Community Catalyst](https://www.confluent.io/nominate/) program (first class ✨)
-- 2020's Kafka Summit [Program Committee](https://kafka-summit.org/program-committee/) memeber
+- 2020's Kafka Summit [Program Committee](https://kafka-summit.org/program-committee/) member
 - 🌍 Checkout: [blog.loicmdivad.com](https://blog.loicmdivad.com/)
 
 <!--
