@@ -1,7 +1,32 @@
 ### `> whoami`
-👋 Hello, World! My name is Loïc, and I'm a French Software Engineer at [Publicis Sapient Engineering](https://medium.com/xebia-france). Graduated from [ISEP](https://www.isep.fr/) 🎓 I Still live in Paris 🇫🇷🍷🧀. Writing [Scala](https://www.scala-lang.org/) is only the half of the job. Blogging, Training and Speaking at conferences are part of the sharing knowledge vibe I try to keep up with. Ex- organizer and Co-founder of [DataXDay](https://dataxday.fr), I'm part of the [Confluent Community Catalyst](https://www.confluent.io/nominate/) program (first class ✨) and more recently I became a 2020's Kafka Summit [Program Committee](https://kafka-summit.org/program-committee/) member.       
+
+👋 Hello, World! My name is Loïc, and I'm a French Software Engineer
+at [Spotify](https://www.lifeatspotify.com/jobs) and living in 🇸🇪 Sweden. Formerly:
+
+- [X] 👔 Consultant at [Xebia France](https://click.engineering.publicissapient.fr/nous-rejoindre)
+- [X] 🎓 Graduated from [ISEP](https://www.isep.fr/) (🔨 Side hustle
+  at [JuniorISEP](https://juniorisep.com/accueil-new/))
+
+Interests:
+[`#Kafka`](https://kafka.apache.org/)
+[`#Scala`](https://www.scala-lang.org/) 
+[`#GCP`](https://cloud.google.com/) 
+`#Cooking` 
+`#Music` 
+`#Callisthenics`
+
+### `> which achivement`
+
+- [ ] SpEC (Spotify Engineering Conference) Organiser 
+- [ ] Kafka Summit [Program Committee](https://kafka-summit.org/program-committee/) member
+- [ ] [Confluent Community Catalyst](https://www.confluent.io/nominate/) (edition 1 to 3)
+- [X] Speaker at Kafka Summit SF 2019 
+- [X] Co-founder of [DataXDay](https://dataxday.fr)
 
 ### `> echo $CONTACT`
-- I'm blogging at [blog.loicmdivad.com](https://blog.loicmdivad.com/) 🌍 
-- 📱 [Twitter](https://twitter.com/LoicMDivad) and [Linkedin](https://www.linkedin.com/in/lo%C3%AFc-divad-3a5a9893/) are probably the fastest way to contact me 
-- 📸 Of course you have to check the IG: [@loicmdivad](https://www.instagram.com/loicmdivad/)
+
+- I'm blogging at [blog.loicmdivad.com](https://blog.loicmdivad.com/) 🌍
+- 📱 [Twitter](https://twitter.com/LoicMDivad)
+  and [Linkedin](https://www.linkedin.com/in/lo%C3%AFc-divad-3a5a9893/) are probably the fastest way
+  to contact me
+- 📸 the IG: [@loicmdivad](https://www.instagram.com/loicmdivad/)
