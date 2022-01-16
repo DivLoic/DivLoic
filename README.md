@@ -3,6 +3,7 @@
 👋 Hello, World! My name is Loïc, and I'm a French Software Engineer
 at [Spotify](https://www.lifeatspotify.com/jobs) and living in 🇸🇪 Sweden. Formerly:
 
+- [ ] 🔊 Software Engineer at [Spotify](https://www.lifeatspotify.com/jobs)
 - [X] 👔 Consultant at [Xebia France](https://click.engineering.publicissapient.fr/nous-rejoindre)
 - [X] 🎓 Graduated from [ISEP](https://www.isep.fr/) (🔨 Side hustle
   at [JuniorISEP](https://juniorisep.com/accueil-new/))
@@ -29,4 +30,4 @@ Interests:
 - 📱 [Twitter](https://twitter.com/LoicMDivad)
   and [Linkedin](https://www.linkedin.com/in/lo%C3%AFc-divad-3a5a9893/) are probably the fastest way
   to contact me
-- 📸 the IG: [@loicmdivad](https://www.instagram.com/loicmdivad/)
+- 📸 Posting food pics at [@loicmdivad](https://www.instagram.com/loicmdivad/)
