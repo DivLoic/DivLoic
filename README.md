@@ -18,9 +18,9 @@ Interests:
 
 ### `> which achivement`
 
-- [ ] SpEC (Spotify Engineering Conference) Organiser 
-- [ ] Kafka Summit [Program Committee](https://kafka-summit.org/program-committee/) member
-- [ ] [Confluent Community Catalyst](https://www.confluent.io/nominate/) (edition 1 to 3)
+- [X] SpEC (Spotify Engineering Conference) Organiser 
+- [X] Kafka Summit [Program Committee](https://kafka-summit.org/program-committee/) member
+- [X] [Confluent Community Catalyst](https://www.confluent.io/nominate/) (edition 1 to 3)
 - [X] Speaker at Kafka Summit SF 2019 
 - [X] Co-founder of [DataXDay](https://dataxday.fr)
 
